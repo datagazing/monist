@@ -1,5 +1,6 @@
 """See top level package docstring for documentation"""
 
+
 def dispatch():
     """
     Return a function that can dispatch between monist and other option
