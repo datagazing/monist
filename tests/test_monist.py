@@ -5,8 +5,6 @@
 
 import unittest
 
-from monist import monist
-
 
 class TestMonist(unittest.TestCase):
     """Tests for `monist` package."""
